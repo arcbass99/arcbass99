@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 130" width="100%" height="100%">
+    <rect width="800" height="130" rx="10" fill="#090D16" stroke="#1E293B" stroke-width="1.5"/>
+    <text x="25" y="24" font-family="monospace" font-size="11" font-weight="bold" fill="#39FF14">// LIGHTHOUSE AUDIT: IM-NAFIS.VERCEL.APP</text>
+    <text x="775" y="24" text-anchor="end" font-family="monospace" font-size="10" fill="#64748B">LAST CHECK: 2026-10-31</text>
+    
+      <g transform="translate(70, 22)">
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#1E293B" stroke-width="6"/>
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#39FF14" stroke-width="6"
+          stroke-dasharray="175.9" stroke-dashoffset="112.6"
+          stroke-linecap="round" transform="rotate(-90 40 36)"/>
+        <text x="40" y="42" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#F8FAFC">36</text>
+        <text x="40" y="84" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#94A3B8">PERFORMANCE</text>
+      </g>
+    
+      <g transform="translate(250, 22)">
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#1E293B" stroke-width="6"/>
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#00C2FF" stroke-width="6"
+          stroke-dasharray="175.9" stroke-dashoffset="7.0"
+          stroke-linecap="round" transform="rotate(-90 40 36)"/>
+        <text x="40" y="42" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#F8FAFC">96</text>
+        <text x="40" y="84" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#94A3B8">ACCESSIBILITY</text>
+      </g>
+    
+      <g transform="translate(430, 22)">
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#1E293B" stroke-width="6"/>
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#FFEA00" stroke-width="6"
+          stroke-dasharray="175.9" stroke-dashoffset="0.0"
+          stroke-linecap="round" transform="rotate(-90 40 36)"/>
+        <text x="40" y="42" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#F8FAFC">100</text>
+        <text x="40" y="84" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#94A3B8">BEST PRACTICES</text>
+      </g>
+    
+      <g transform="translate(610, 22)">
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#1E293B" stroke-width="6"/>
+        <circle cx="40" cy="36" r="28" fill="none" stroke="#B026FF" stroke-width="6"
+          stroke-dasharray="175.9" stroke-dashoffset="0.0"
+          stroke-linecap="round" transform="rotate(-90 40 36)"/>
+        <text x="40" y="42" text-anchor="middle" font-family="monospace" font-size="16" font-weight="bold" fill="#F8FAFC">100</text>
+        <text x="40" y="84" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#94A3B8">SEO</text>
+      </g>
+  </svg>
